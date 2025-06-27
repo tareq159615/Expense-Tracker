@@ -10,9 +10,6 @@ A simple and elegant expense tracker built using **React**, **TypeScript**, **Zu
 - 💾 Zustand-based global state management
 - 🎨 Clean and responsive UI with TailwindCSS
 
-## 📸 Preview
-
-![Expense Tracker Screenshot](#) <!-- You can add a screenshot link here -->
 
 ## 🧱 Technologies Used
 
@@ -21,16 +18,4 @@ A simple and elegant expense tracker built using **React**, **TypeScript**, **Zu
 - 🧠 Zustand
 - 💨 TailwindCSS
 - 🛠️ Vite (recommended for dev)
-
-## 📁 Project Structure
-
-src/
-│
-├── components/
-│ └── ExpenseTracker.tsx
-│
-├── store/
-│ └── index.ts # Zustand store
-│
-└── main.tsx # Entry point
 
